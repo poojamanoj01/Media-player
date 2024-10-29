@@ -1,3 +1,3 @@
-const serverUrl = "http://localhost:3000"
+const serverUrl = "https://mediaplayer-server-x1ty.onrender.com"
 
 export default serverUrl
